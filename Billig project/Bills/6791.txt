@@ -1,0 +1,20 @@
+	     Welcome Webcode Retail
+
+Bill No: 6791
+Customer Name: adasd
+Phone No: 12312
+
+============================================
+  Products		    QTY		  Price
+============================================
+ Content_1		    1		Rs. 40
+ Content2_4		    1		Rs. 185
+ Content3_3		    1		Rs. 601
+
+------------------------------------------
+  Content1 TAX				Rs. 2.0
+  Content2 TAX				Rs. 18.5
+  Content3 TAX				Rs. 30.05
+--------------------------------------------
+  TOTAL BILL				Rs. 876.55
+--------------------------------------------

@@ -1,0 +1,22 @@
+	     Welcome Krishna Juice Center
+
+Bill No: 1464
+Customer Name: Sai
+Phone No: 8876567654
+
+============================================
+  Products		    QTY		  Price
+============================================
+ Apple juice		    2		Rs. 80
+ Strawberry MS		    2		Rs. 200
+ Coca-Cola		    1		Rs. 20
+ 7UP		    1		Rs. 20
+
+------------------------------------------
+  Fruit juices TAX				Rs. 4.0
+  Milkshakes TAX				Rs. 20.0
+  Soda Drinks TAX				Rs. 2.0
+--------------------------------------------
+  TOTAL BILL				Rs. 346.0
+--------------------------------------------
+
